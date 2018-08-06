@@ -17,3 +17,17 @@ npm install @types/react-slick --save-dev
 二つなきゃだめ
 "react-slick": "^0.23.1",
 "@types/react-slick": "^0.23.1",
+
+https://github.com/akiran/react-slick
+
+props
+https://react-slick.neostack.com/docs/api/
+
+method
+https://react-slick.neostack.com/docs/api/#methods
+
+jquery
+http://kenwheeler.github.io/slick/
+
+example
+https://react-slick.neostack.com/docs/example/simple-slider
